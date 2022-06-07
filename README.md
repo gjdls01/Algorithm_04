@@ -3,7 +3,7 @@
 ### Model1: layer3
 <img width="797" alt="model1_accuracy_epoch" src="https://user-images.githubusercontent.com/80053493/172450470-e516ea97-7387-43b1-8f18-2256a75fef2b.png">
 <img width="588" alt="model1_accuracy_test" src="https://user-images.githubusercontent.com/80053493/172450514-a21e6b78-c011-4a9e-9021-255f0bb134b6.png">
-![model1_accuracy_plt](https://user-images.githubusercontent.com/80053493/172450542-e4bc3f35-8ddb-498c-9cbc-66a6bc5036e6.png)
+<img width="588" alt="model1_result" src=https://user-images.githubusercontent.com/80053493/172450542-e4bc3f35-8ddb-498c-9cbc-66a6bc5036e6.png">
 <img width="1156" alt="model1_result" src="https://user-images.githubusercontent.com/80053493/172449661-6759f3c9-6708-45f6-bded-b086fbec4bf3.png">
 
 ### Model2: layer5
