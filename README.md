@@ -3,7 +3,7 @@
 ### Model1: layer3
 <img width="797" alt="model1_accuracy_epoch" src="https://user-images.githubusercontent.com/80053493/172450470-e516ea97-7387-43b1-8f18-2256a75fef2b.png">
 <img width="588" alt="model1_accuracy_test" src="https://user-images.githubusercontent.com/80053493/172450514-a21e6b78-c011-4a9e-9021-255f0bb134b6.png">
-![image]https://github.com/gjdls01/Algorithm_04/blob/master/model1_accuracy_plt.png
+![image](https://github.com/gjdls01/Algorithm_04/blob/master/model1_accuracy_plt.png)
 ![model1_accuracy_plt](https://user-images.githubusercontent.com/80053493/172451144-cae8cb7e-1dbb-4219-afe4-bc15e4af92e1.png)
 ##### failure:
 <img width="1156" alt="model1_result" src="https://user-images.githubusercontent.com/80053493/172449661-6759f3c9-6708-45f6-bded-b086fbec4bf3.png">
