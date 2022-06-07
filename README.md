@@ -12,7 +12,7 @@
 <img width="796" alt="model2_accuracy_epoch" src="https://user-images.githubusercontent.com/80053493/172450605-d6999111-6455-48b1-83c4-e3f98c31fae2.png">
 <img width="589" alt="model2_accuracy_test" src="https://user-images.githubusercontent.com/80053493/172450635-dd5f9e7d-2127-42ea-9422-5b6012d2a20c.png">
 ### success:
-<img width="1440" alt="model2n" src="https://user-images.githubusercontent.com/80053493/172453299-5ba9b7bb-4f62-4196-bba1-4c4955fd6e59.png">
+<img width="351" alt="스크린샷 2022-06-08 오전 3 13 37" src="https://user-images.githubusercontent.com/80053493/172453627-2d25976b-3770-420f-b082-cf15da9711ae.png">
 ### failure:
 <img width="1155" alt="model2_result" src="https://user-images.githubusercontent.com/80053493/172449691-5b16b1c0-1265-4686-8ea8-a663b093784e.png">
 
