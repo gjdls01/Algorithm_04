@@ -3,9 +3,9 @@
 ## Model1: layer3
 <img width="797" alt="model1_accuracy_epoch" src="https://user-images.githubusercontent.com/80053493/172450470-e516ea97-7387-43b1-8f18-2256a75fef2b.png">
 <img width="588" alt="model1_accuracy_test" src="https://user-images.githubusercontent.com/80053493/172450514-a21e6b78-c011-4a9e-9021-255f0bb134b6.png"><br>
-### success:
+- success:
 <img width="350" alt="model1n" src="https://user-images.githubusercontent.com/80053493/172453290-2937dbf8-76e7-4932-a785-c51a3fda2301.png">
-### failure:
+- failure:
 <img width="1156" alt="model1_result" src="https://user-images.githubusercontent.com/80053493/172449661-6759f3c9-6708-45f6-bded-b086fbec4bf3.png">
 
 ## Model2: layer5
