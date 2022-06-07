@@ -2,7 +2,7 @@
 
 ## Model1: layer3
 <img width="797" alt="model1_accuracy_epoch" src="https://user-images.githubusercontent.com/80053493/172450470-e516ea97-7387-43b1-8f18-2256a75fef2b.png">
-<img width="588" alt="model1_accuracy_test" src="https://user-images.githubusercontent.com/80053493/172450514-a21e6b78-c011-4a9e-9021-255f0bb134b6.png">
+<img width="588" alt="model1_accuracy_test" src="https://user-images.githubusercontent.com/80053493/172450514-a21e6b78-c011-4a9e-9021-255f0bb134b6.png"><br>
 ### success:
 ![model1_accuracy_plt](https://user-images.githubusercontent.com/80053493/172451144-cae8cb7e-1dbb-4219-afe4-bc15e4af92e1.png)
 ### failure:
